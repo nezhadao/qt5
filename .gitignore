@@ -8,3 +8,6 @@ CMakeUserPresets.json
 build
 build-*
 .DS_Store
+
+.idea/
+*.iml
